@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib.pyplot
+seaborn
+matplotlib.font_manager
+os
