@@ -2,6 +2,3 @@ streamlit
 pandas
 matplotlib
 seaborn
-matplotlib.font_manager
-openpyxl
-os
